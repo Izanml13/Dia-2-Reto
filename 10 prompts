@@ -157,3 +157,166 @@ Total que B debe a A: €Y
 ---
 
 **Clave**: El que primero pague/salde **gana tranquilidad**. El orgullo cuesta dinero; la amistad, no.
+
+### Prompt 7
+Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. A la hora de mediar, ¿como actuarias con este entorno?
+
+### Salida
+**Enfoque de mediación estructurada para conflicto tóxico bilateral**
+
+---
+
+### **1. DIAGNÓSTICO PREVIO (antes de sentarles juntos)**
+| Factor | Acción |
+|--------|--------|
+| **Pruebas** | Recopila *hechos verificables* (emails, testigos, logs), no opiniones. "A pidió muestras el día X" ≠ "A quiere incriminar". |
+| **Poder** | B tiene cargo superior → riesgo de represalias veladas. Garantiza **protección a A** por escrito (RRHH/dirección). |
+| **Riesgo legal** | Sabotaje + incriminación = posible delito (coacción, falsedad, acoso). Asesora a ambos: "Lo que digáis aquí no se usará en expediente, pero si hay delitos, la empresa debe actuar". |
+| **Objetivo real** | ¿Quieren resolverlo o **documentar para despedir**? Acláralo con dirección antes de mediar. |
+
+---
+
+### **2. REGLAS DE LA SESIÓN (innegociables)**
+1. **Solo hechos** ("El día 3 pediste X"), nada de intenciones ("querías hundirme").
+2. **Turnos de 2 min** sin interrupción; mediador para reloj.
+3. **Veto a "tú también"**: cada uno responde solo de *sus* actos.
+4. **Acuerdo de confidencialidad** firmado al inicio.
+
+---
+
+### **3. ESTRUCTURA DE 3 SESIONES**
+
+#### **Sesión 1: Desescalada + Hechos (separados)**
+- Entrevista individual 45 min c/u.
+- Preguntas clave:
+  - *"¿Qué hecho concreto te hizo sentir sabotaje?"*
+  - *"¿Qué necesitas para sentirte seguro/a trabajando?"*
+  - *"¿Qué estás dispuesto/a a cambiar tú?"*
+- **Output**: Lista de 3-5 comportamientos observables por parte (ej: "B no cc en emails a A", "A no pide muestras sin copia a jefe").
+
+#### **Sesión 2: Confrontación controlada (juntos, 90 min)**
+| Fase | Tiempo | Dinámica |
+|------|--------|----------|
+| **Hechos** | 20 min | Cada uno lee su lista de comportamientos (sin interpretaciones). El otro *solo escucha y repite* ("Oigo que dices que..."). |
+| **Impacto** | 15 min | "Cuando haces X, yo me siento Y y mi trabajo se ve afectado en Z". |
+| **Compromisos** | 30 min | Negocian **3 cambios mutuos** medibles y con fecha (ej: "Desde lunes, B incluye a A en emails de proyecto; A solicita muestras por ticket con copia a jefe"). |
+| **Seguimiento** | 10 min | Firman acta. Reunión control a 15 y 30 días. |
+
+#### **Sesión 3: Revisión (a los 15 y 30 días)**
+- ¿Cumplido? → Cerrar.
+- ¿Incumplimiento? → Escala a RRHH/dirección con actas firmadas.
+
+---
+
+### **4. MEDIDAS PARALELAS OBLIGATORIAS**
+- **Canal formal de solicitudes** (ticketing, email con copia) → elimina "muestras a escondidas".
+- **Feedback 360° anónimo** para B (poder) + evaluación objetivos para A.
+- **Cláusula anti-represalias** por escrito firmada por dirección.
+- **Formación obligatoria** ambos: comunicación asertiva / resolución conflictos.
+
+---
+
+### **5. SI FALLA LA MEDIACIÓN**
+- **Separación física/funcional** inmediata (diferente equipo, turno, ubicación).
+- **Expediente disciplinario** basado *solo* en hechos probados (no en "mal rollo").
+- **Decisión de dirección**: uno de los dos **debe moverse** (traslado, baja, despido). No se puede mantener dinámica destructiva.
+
+---
+
+### **FRASES CLAVE PARA EL MEDIADOR**
+- *"No juzgo intenciones, solo comportamientos observables."*
+- *"Aquí no hay 'quién empezó', hay 'qué hacemos ahora'."*
+- *"Si no hay confianza, construimos **procesos** que la sustituyan."*
+- *"El silencio de B (hablar a espaldas) y la trampa de A (muestras) son **ambos** sabotaje. Los dos perdéis credibilidad."*
+
+---
+
+**Resultado realista**: No recuperarás la amistad. Objetivo = **convivencia profesional mínima con reglas claras y supervisión**. Si uno no firma compromisos medibles → la empresa debe actuar por incumplimiento de deberes.
+
+
+### Prompt 8
+Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. Tengamos en cuenta que siguen una tabla de horarios difernetes y esto, difiere a la hora de arreglar los problemas ya que se deben de solucionar fuera del horario laboral. A la hora de mediar, ¿como actuarias con este entorno?
+
+Quiero que, estructures en una tabla, los contenidos brevemente de la solución.
+### Salida
+### **Plan de Mediación: Conflicto Cruzado con Diferencia Horaria**
+
+| Fase | Acción Clave | Gestión Horaria (Fuera de Jornada) | Responsable | Entregable / Control |
+| :--- | :--- | :--- | :--- | :--- |
+| **0. Previa (48h)** | **Blindaje legal y poder**: Prohibir represalias por escrito (Dirección/RRHH). Recoger pruebas objetivas (emails, logs, testigos). | **Videollamada 30 min c/u** (fuera de turno, pagada/horas compensadas). | Mediador + RRHH | Acta de confidencialidad + "Acuerdo de no represalias" firmado por Dirección. |
+| **1. Diagnóstico Individual** | Entrevista separada: Hechos concretos (no opiniones), necesidades de seguridad, 3 cambios conductuales propuestos. | **2 sesiones 45 min** (turno A: tarde/noche; turno B: mañana). Formato online/híbrido obligatorio. | Mediador | **Ficha de Hechos y Compromisos** por persona (máx. 5 items medibles). |
+| **2. Sesión Conjunta Única** | 1. Lectura mutua de fichas (sin réplica). 2. Impacto real en trabajo. 3. **Pacto de 3 Protocolos Obrigatorios** (ver abajo). | **1 sesión 90 min** (fin de semana o día libre común, **pagada al 150% o recuperación obligatoria**). Presencial preferible. | Mediador | **Acta de Compromisos Firmada** (ver Protocolo Mínimo). |
+| **3. Protocolo Mínimo Vinculante** | **P1. Comunicación:** Solo canal oficial (ticket/email con copia RRHH). Prohibido verbal a solas.<br>**P2. Muestras/Solicitudes:** Formulario único digital con trazabilidad (elimina "muestras a escondidas").<br>**P3. Feedback:** B evalúa a A solo por KPIs escritos; A reporta incidencias por canal formal. | **Implantación inmediata** (configuración IT en 24h). Formación express 15 min c/u (grabada). | IT + RRHH | Sistema activo + Capturas de configuración. |
+| **4. Seguimiento Corto** | Revisión cumplimiento a **7 y 21 días**. Solo datos: ¿P1, P2, P3 funcionan? (Sí/No + evidencia). | **Llamada 15 min c/u** (inicio/fin turno, **dentro de jornada ahora que hay protocolo**). | Mediador | Informe "Cumple/No Cumple" → Dirección. |
+| **5. Escala si Falla** | Incumplimiento = **Medida Cautelar Inmediata**: Separación física/funcional (distinto depto, turno, jefe) o Expediente por incumplimiento deberes. | Decisión en **24h** tras informe mediador. | Dirección / RRHH | Resolución escrita y ejecutada. |
+
+---
+
+### **Claves Específicas por Diferencia Horaria**
+| Problema | Solución Operativa |
+| :--- | :--- |
+| **No coinciden para hablar** | **Todo por escrito/ticket** (elimina necesidad de sincronía). |
+| **Mediación fuera de horario** | **Obligatorio:** Pago hora extra / día libre compensatorio / dieta. Si no se paga → mediación nula (coacción). |
+| **Control de B (poder)** | **Trazabilidad automática** (logs, cc obligatorios, KPIs objetivos). Quita capacidad de "hablar mal a escondidas" con consecuencias reales. |
+| **Trampa de A (muestras)** | **Formulario único digital** con firma temporal y testigo sistema. Imposible manipular "a posteriori". |
+
+> **Regla de Oro:** Si la empresa **no paga/facilita** el tiempo fuera de horario para las 2 sesiones críticas (Fase 1 y 2), **no medies**. Es señal de que no quieren solución, solo "lavar la imagen". Deriva directo a RRHH/Dirección para medidas disciplinarias por hechos probados.
+
+
+### Prompt 9
+Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. Tengamos en cuenta que siguen una tabla de horarios difernetes y esto, difiere a la hora de arreglar los problemas ya que se deben de solucionar fuera del horario laboral. A la hora de mediar, ¿como actuarias con este entorno?
+
+Quiero que dado el contexto, estructures en una tabla en formato excel, la mediación de manera breve y concisa sin añadir párrafos de conclusión.
+
+### Salida
+| FASE | ACCIÓN ESPECÍFICA | GESTIÓN HORARIA (FUERA JORNADA) | RESPONSABLE | ENTREGABLE / KPI CONTROL |
+| :--- | :--- | :--- | :--- | :--- |
+| **0. BLINDAJE PREVIO (Días 1-2)** | Prohibición escrita de represalias (Dir/RRHH). Recogida pruebas objetivas (logs, emails, testigos). Validar riesgo legal (coacción, acoso). | Email/Plataforma RRHH (asíncrono). Firma digital acta confidencialidad. | Dirección / RRHH | Acta "No Represalias" firmada + Informe Hechos Verificables. |
+| **1. DIAGNÓSTICO INDIVIDUAL (Días 3-5)** | Entrevista 45 min c/u: Lista 5 hechos observables (no opiniones), 3 necesidades seguridad, 3 cambios conductuales propuestos. | **Videollamada** (fuera turno, pagada/horas comp.). Turno A: noche; Turno B: mañana. Grabada (consentimiento). | Mediador | Ficha Individual: Hechos + Compromisos Medibles (máx 5 items). |
+| **2. SESIÓN CONJUNTA ÚNICA (Día 6-7)** | 1. Lectura mutua fichas (escucha activa, sin réplica). 2. Definición 3 Protocolos Obligatorios (Comunicación, Muestras, Evaluación). 3. Firma acta. | **Presencial/Obligatoria** (Día libre común o fin de semana). **Duración 90 min. Pagada al 150% o día libre compensatorio.** | Mediador + Testigo RRHH | **Acta Compromisos Firmada** (Ver Protocolo Mínimo Abajo). |
+| **3. IMPLANTACIÓN PROTOCOLO MÍNIMO (Día 8)** | **P1. Canal Único:** Ticket/Email con copia RRHH (prohibido verbal a solas).<br>**P2. Solicitud Muestras:** Formulario digital trazable (firma temporal, testigo sistema).<br>**P3. Evaluación B→A:** Solo KPIs escritos objetivos (anula "hablar mal" con consecuencia real). | Configuración IT inmediata (24h). Micro-formación 15 min c/u (video grabado, async). | IT / RRHH | Sistema Activo + Capturas Configuración + Visualización formación. |
+| **4. SEGUIMIENTO CORTO (Días 15 y 29)** | Revisión binaria (Sí/No + Evidencia): ¿P1, P2, P3 funcionan? Incidencias registradas. | **Llamada 15 min c/u** (inicio/fin turno, **ya DENTRO de jornada** por protocolo activo). | Mediador | Informe "Cumple/No Cumple" → Dirección. |
+| **5. ESCALADA AUTOMÁTICA (Si Fallo)** | Incumplimiento = Separación física/funcional inmediata (distinto depto/jefe/turno) O Expediente Disciplinario por incumplimiento deberes. | Decisión Dirección en **24h** tras informe mediador. | Dirección / RRHH | Resolución Escrita Ejecutada (Traslado / Expediente / Despido). |
+
+### **PROTOCOLO MÍNIMO VINCULANTE (Anexo Acta Fase 2)**
+
+| PROTOCOLO | REGLA OPERATIVA | HERRAMIENTA | SANCIÓN INCUMPLIMIENTO |
+| :--- | :--- | :--- | :--- |
+| **COMUNICACIÓN** | Cero interacción verbal directa sin testigo/registro. Todo por ticket/email cc RRHH. | Jira / ServiceNow / Email Corp. | Advertencia formal → Expediente. |
+| **MUESTRAS / SOLICITUDES** | Formulario único digital obligatorio: Qué, Para qué, Quién autoriza, Firma temporal, Testigo auto. | Formulario PowerApps / SharePoint / Google Forms (validado IT). | Nulidad solicitud + Expediente si simulación. |
+| **EVALUACIÓN / FEEDBACK** | B evalúa A **solo** mediante KPIs mensuales escritos y firmados. Prohibido feedback informal a terceros. | Plantilla KPI RRHH (Objetivos SMART). | Anulación evaluación informal + Curso gestión equipos. |
+
+
+### Prompt 10 
+Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. Tengamos en cuenta que siguen una tabla de horarios difernetes y esto, difiere a la hora de arreglar los problemas ya que se deben de solucionar fuera del horario laboral. A la hora de mediar, ¿como actuarias con este entorno?
+Quiero que dado el contexto, sigas las instrucciones paso a paso de como ordenar los contenidos:
+1. Definir el problema en 3 frases
+2. Definir la disponibilidad de cada persona. Persona A ( trabaja 06-14h ) y persona B ( 14-22h ).
+3. Explicar de manera clara y corta el problema, siendo breve.
+4. Dar 5 posibles soluciones.
+6. Una pequeña conclusión de como evitarias volver a tener el mismo problema.
+
+### Salida
+**1. Definición del problema en 3 frases**
+Persona A intenta incriminar a B solicitando muestras bajo falsos pretextos para generar pruebas de error. Persona B, desde su posición jerárquica superior, sabotea la reputación de A difundiendo comentarios negativos a espaldas. Existe un ciclo de retaliación mutua que impide la colaboración y requiere intervención estructurada inmediata.
+
+**2. Disponibilidad de cada persona**
+*   **Persona A (Turno Mañana):** 06:00 – 14:00. **Disponible para reuniones:** 14:30 – 18:00 (preferible) o antes de las 05:30.
+*   **Persona B (Turno Tarde):** 14:00 – 22:00. **Disponible para reuniones:** 09:00 – 13:00 (preferible) o después de las 22:30.
+*   **Ventana común real:** **Ninguna dentro de horario laboral estándar.** Las sesiones conjuntas requieren obligatoriamente **fuera de jornada (pagadas/compensadas)** o fin de semana.
+
+**3. Explicación breve del problema**
+Conflicto tóxico bilateral con asimetría de poder: A usa medios técnicos (muestras) para tender trampas; B usa poder informal (rumores) para destruir credibilidad. La falta de coincidencia horaria elimina la comunicación espontánea, cronificando la desconfianza y permitiendo que el sabotaje sustituya a la gestión.
+
+**4. 5 Posibles soluciones**
+
+| Nº | Solución | Mecanismo Clave | Coste/Esfuerzo |
+| :--- | :--- | :--- | :--- |
+| **1** | **Mediación Externa Obligatoria (Fines de semana)** | 2 sesiones (diag. individual + conjunta) sábado/domingo pagadas al 150%. Firma de "Protocolo Mínimo" (canal único, formularios trazables, KPIs escritos). | Alto (tiempo/pago), Alta eficacia. |
+| **2** | **Separación Funcional Inmediata** | Cambio de B a otro departamento/equipo o reasignación de A a otro supervisor. Eliminación de dependencia jerárquica directa. | Medio (logística), Eficacia inmediata. |
+| **3** | **Digitalización Forzada de Procesos (Sin mediación previa)** | Implementación obligatoria: Ticketing para muestras (trazabilidad total), Evaluación 360° anónima para B, Comunicación solo por email cc RRHH. Auditoría a 30 días. | Bajo/Medio (IT), Elimina "hecho vs palabra". |
+| **4** | **Expediente Disciplinario Cruzado por Hechos Probados** | RRHH/Dirección recopila pruebas (logs muestras, testigos rumores). Apertura expediente simultáneo a ambos por "Quebrantamiento buen faith contractual / Acoso". | Alto (legal), Riesgo bajo moral, Define límites claros. |
+| **5** | **Intercambio de Turnos Temporal (3-6 meses)** | A pasa a tarde / B pasa a mañana (o turno partido solapado 1h). Forzar coincidencia diaria 1h para "Daily Standup" obligatorio supervisado por tercero. | Medio (planificación), Fuerza comunicación directa. |
+
+**6. Conclusión: Prevención de recurrencia**
+Instaurar **trazabilidad obligatoria por defecto** (todo pedido/muestra/evaluación deja rastro digital inmutable) y **separar poder de evaluación de operación diaria** (B no evalúa a A directamente sin KPIs objetivos auditables). Programar **revisiones trimestrales de clima anónimas** por turno para detectar toxicidad latente antes de que escale a sabotaje.
