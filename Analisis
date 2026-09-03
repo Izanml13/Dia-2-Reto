@@ -1,0 +1,16 @@
+Tras realizar las pruebas en los respectivos modelos y con diferentes prompts de manera evolucionada, los mejores que han resultado son los siguientes:
+
+Prompt 10:
+Sin duda es el que mejor ha resultado ya que la IA, en este caso OpenCode, cuenta con un contexto ampliado y datos concretos como las horas. Conoce al detalle el problema y las circunstancias que lo hacen más difícil.
+Tiene una descomposición numerada, lo que quiere decir que sigue unas pautas en el prompt, 3 frases y 5 soluciones de manera breve.
+Analizandolo, funciona tambien ya que la lista numerada convierte el problema y la pregunta, en un esquema cerrado, eliminando asi la variable de la longitud que se ven descontroladas en el prompt 2 y el 7.
+
+Prompt 4:
+Es junto a la útlima, el prompt que ha hecho mejorar mas en cuanto a seguir las indicaciones necesarias. Se aprecia un formato ordenado y nombrado junto a un límite respetado también.
+
+OBSERVACIONES
+Con ayuda de diferentes modelos de IA y junto al modo "plan" de OpenCode, he podido ver como mejorar de una gran medida ciertos prompts que no han salido tan bien.
+1. En el prompt 9, se puede observar que se pide un formato excel, el cual se representa en una tabla MarkDown, asi que podemos ver un antipatrón en el prompt. Podriamos pedir una tabla en formato MarkDown, indicando las filas y las palabras por celda, así la IA pierde
+el criterio o la decisión de estructura.
+2. A continuación, el P-3, con cierta atención veremos que el orden es incorrecto. Aqui podriamos utilizar prompt = f"""Ordena de mayor a menor los siguientes animales segíun su fuerza absoluta""" y añadir de contexto los animales que se quiera clasificar.
+
