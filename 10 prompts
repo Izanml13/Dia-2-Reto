@@ -1,3 +1,4 @@
+MODElO NEMOTRON 3 ULTRA FREE
 ### Prompt núm 1
 ¿Qué es el ser humano?
 ### Salida
@@ -20,6 +21,11 @@ Creador de cultura, tecnología, arte, ciencia y sistemas simbólicos
 Única especie que transforma sistemáticamente su entorno
 La definición varía según la disciplina (biología, filosofía, teología, antropología), pero el consenso actual integra estas dimensiones como constitutivas de la condición humana.
 
+MODELO MUSE SPARK 1.3 FREE
+### Salida prompt 1 
+El ser humano es *Homo sapiens*: primate mamífero bípedo con cerebro altamente desarrollado, lenguaje simbólico complejo, autoconciencia y cultura acumulativa.
+
+MODELO NEMOTRON 3 ULTRA 
 ### Prompt 2
 ¿Qué es el ser humano y cual es su historia?
 ### Salida
@@ -59,6 +65,21 @@ Puntos de inflexión mayores
 1945-presente: Era nuclear/digital — riesgo existencial, red global, edición genética, IA
 El ser humano es, en esencia, la especie que crea nichos culturales y tecnológicos que a su vez moldean su propia evolución biológica y social — un bucle de coevolución genético-cultural único en la historia de la vida.
 
+MODELO MUSE SPARK 1.3
+### Salida
+**Qué es:** *Homo sapiens*, primate bípedo con cerebro de ~1350 cm³, lenguaje simbólico, autoconciencia y cultura acumulativa.
+
+**Historia evolutiva:**
+- 7-4 Ma: *Sahelanthropus, Ardipithecus* - bipedestación inicial
+- 4-2 Ma: *Australopithecus* - bipedestación obligada
+- 2.4 Ma-110 ka: *H. habilis, H. erectus* - herramientas, fuego, salida de África
+- 400-40 ka: Neandertal - cultura, enterramientos
+- ~300 ka-presente: *H. sapiens* - comportamiento moderno ~50 ka, expansión global
+
+**Historia cultural:**
+Paleolítico (caza-recolección) → Neolítico ~10 ka (agricultura) → Metales/escritura ~3500 a.C. (ciudades, estados) → Industrialización ~1760 (energía fósil) → Era digital/nuclear (globalización, Antropoceno).
+
+MODELO NEMOTRON 3 ULTRA
 ### Prompt 3 
 ¿Cual es el animal mas fuerte de la jungla?
 Ordenalos de menos a más fuerte.
@@ -79,12 +100,24 @@ Ordenalos de menos a más fuerte.
 2. **Hormiga cortadora de hojas** (*Atta*) — ~50x su peso  
 3. **Gorila occidental** (*Gorilla gorilla*) — ~10x su peso (tracción)
 
+MODELO SPARK 1.3
+### Salida
+De menor a mayor fuerza absoluta en selva:
+
+Jaguar → Oso hormiguero gigante → Anaconda verde → Tapir → Cocodrilo del Orinoco → Elefante africano de bosque, el más fuerte.
+
+MODELO NEMOTRON 3 ULTRA
 ### Prompt 4 
 ¿Cual es el animal mas fuerte de la jungla?
 Ordenalos de menos a más fuerte en un total de 200 carácteres
 ### Salida
 Jaguar → Oso hormiguero → Anaconda → Tapir → Cocodrilo Orinoco → **Elefante bosque** (2-4 ton: voltea árboles, arranca troncos, carga 3000+ kg)
 
+MODELO SPARK 1.3
+### Salida
+Jaguar→Oso hormiguero→Anaconda→Tapir→Cocodrilo→Elefante de bosque (más fuerte, 2-4 t)
+
+MODELO NEMOTRON 3 ULTRA
 ### Prompt 5
 ¿Que comidas internacionales fueron premiadas en los años 2000?
 ### Salida
@@ -126,6 +159,19 @@ Platos icónicos que definieron la década:
 ### **Tendencia transversal 2000s**
 Premios reconocieron: **técnica científica** (esferificación, espumas, sous-vide), **contraste texturas/temperaturas**, **deconstrucción clásicos**, **producto local excelencia** y **narrativa sensorial** (juego, ironía, provocación).
 
+MODELO SPARK 1.3
+### Salida
+Premiadas en 2000-2009:
+
+**El Bulli (World's Best 2002, 2006-2009):** caviar esférico de melón (2003), espumas, aceituna líquida, gelatinas calientes.
+
+**The French Laundry (World's Best 2003-2004):** Oysters and Pearls (tapioca+ostra+caviar), Salmon Cornets, langosta en mantequilla, Coffee and Donuts.
+
+**Bocuse d'Or Oro:** 2001 Adamski (Francia), 2003 Tjessem (Noruega), 2005 Vieira (Francia), 2007 Desvignes (Francia), 2009 Skeie (Noruega).
+
+**Fancy Food NY 2000 Oro:** dulce de leche La Salamandra (Argentina).
+
+MODELO NEMOTRON 3 ULTRA
 ### Prompt 6
 Dos amigos se deben dinero el uno al otro, pero no quieren dar su brazo a torcer.
 ¿Cómo procedes con este problema?
@@ -158,6 +204,11 @@ Total que B debe a A: €Y
 
 **Clave**: El que primero pague/salde **gana tranquilidad**. El orgullo cuesta dinero; la amistad, no.
 
+MODELO MUSE SPARK 1.3
+### Salida
+Listan por escrito lo que cada uno reclama, firman lo aceptado, calculan saldo neto (|X-Y|) y quien debe más paga la diferencia de inmediato con constancia escrita de saldo cero.
+
+MODELO NEMOTRON 3 ULTRA 
 ### Prompt 7
 Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. A la hora de mediar, ¿como actuarias con este entorno?
 
@@ -233,7 +284,11 @@ Una persona tiene una mala relación laboral con otra e intentan sabotearse mutu
 
 **Resultado realista**: No recuperarás la amistad. Objetivo = **convivencia profesional mínima con reglas claras y supervisión**. Si uno no firma compromisos medibles → la empresa debe actuar por incumplimiento de deberes.
 
+MODELO MUSE SPARK 1.3
+### Salida
+Entrevistas individuales para recoger hechos verificables, no intenciones. Sesión conjunta con turnos, solo conductas observables. Pactar 3 compromisos medibles: canal único escrito, solicitudes trazables, evaluación por KPIs. Seguimiento a 15/30 días. Si incumplen: separación funcional o expediente.a
 
+MODELO NEMOTRON 3 ULTRA
 ### Prompt 8
 Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. Tengamos en cuenta que siguen una tabla de horarios difernetes y esto, difiere a la hora de arreglar los problemas ya que se deben de solucionar fuera del horario laboral. A la hora de mediar, ¿como actuarias con este entorno?
 
@@ -262,7 +317,18 @@ Quiero que, estructures en una tabla, los contenidos brevemente de la solución.
 
 > **Regla de Oro:** Si la empresa **no paga/facilita** el tiempo fuera de horario para las 2 sesiones críticas (Fase 1 y 2), **no medies**. Es señal de que no quieren solución, solo "lavar la imagen". Deriva directo a RRHH/Dirección para medidas disciplinarias por hechos probados.
 
+MODELO MUSE SPARK 1.3
+### Salida
+| Fase | Acción | Gestión fuera de horario |
+|---|---|---|
+| 0. Blindaje | Acta no represalias, recoger pruebas objetivas | Firma digital asíncrona |
+| 1. Diagnóstico | Entrevista individual 45 min: hechos, necesidades | Videollamada: A 14:30-18h, B 9-13h, pagada |
+| 2. Conjunta | Leer hechos, pactar 3 reglas, firmar acta | 1 sesión 90 min fin de semana, pagada |
+| 3. Protocolo | Canal único con copia, formulario trazable muestras, KPIs escritos | Implantación IT 24h |
+| 4. Control | Revisión 7 y 21 días cumple/no cumple | Llamada 15 min |
+| 5. Escala | Si falla: separación o expediente | Decisión 24h |
 
+MODELO NEMOTRON 3 ULTRA
 ### Prompt 9
 Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. Tengamos en cuenta que siguen una tabla de horarios difernetes y esto, difiere a la hora de arreglar los problemas ya que se deben de solucionar fuera del horario laboral. A la hora de mediar, ¿como actuarias con este entorno?
 
@@ -286,7 +352,17 @@ Quiero que dado el contexto, estructures en una tabla en formato excel, la media
 | **MUESTRAS / SOLICITUDES** | Formulario único digital obligatorio: Qué, Para qué, Quién autoriza, Firma temporal, Testigo auto. | Formulario PowerApps / SharePoint / Google Forms (validado IT). | Nulidad solicitud + Expediente si simulación. |
 | **EVALUACIÓN / FEEDBACK** | B evalúa A **solo** mediante KPIs mensuales escritos y firmados. Prohibido feedback informal a terceros. | Plantilla KPI RRHH (Objetivos SMART). | Anulación evaluación informal + Curso gestión equipos. |
 
+MODELO MUSE SPARK 1.3
+### Salida
+| Fase | Acción | Horario fuera jornada | Responsable | Entregable |
+| 0. Blindaje | Acta no represalias, pruebas objetivas | Firma digital asíncrona | Dirección/RRHH | Acta firmada |
+| 1. Diagnóstico | Entrevista 45 min c/u, 5 hechos | A 14:30-18h, B 9-13h videollamada pagada | Mediador | Ficha individual |
+| 2. Conjunta | Lectura hechos, 3 reglas, firma | 90 min fin de semana pagado | Mediador | Acta compromisos |
+| 3. Protocolo | Canal único cc, formulario muestras, KPIs | IT 24h + video 15 min | IT/RRHH | Sistema activo |
+| 4. Control | Revisión 7 y 21 días | Llamada 15 min | Mediador | Informe cumple/no |
+| 5. Escala | Separación o expediente | Decisión 24h | Dirección | Resolución escrita |
 
+MODELO NEMTRON 3 ULTRA
 ### Prompt 10 
 Una persona tiene una mala relación laboral con otra e intentan sabotearse mutuamente. Persona A pide muestras para incriminar a B. Persona B tiene un cargo mas importante y habla a escondidas mal de persona A. Tengamos en cuenta que siguen una tabla de horarios difernetes y esto, difiere a la hora de arreglar los problemas ya que se deben de solucionar fuera del horario laboral. A la hora de mediar, ¿como actuarias con este entorno?
 Quiero que dado el contexto, sigas las instrucciones paso a paso de como ordenar los contenidos:
@@ -320,3 +396,15 @@ Conflicto tóxico bilateral con asimetría de poder: A usa medios técnicos (mue
 
 **6. Conclusión: Prevención de recurrencia**
 Instaurar **trazabilidad obligatoria por defecto** (todo pedido/muestra/evaluación deja rastro digital inmutable) y **separar poder de evaluación de operación diaria** (B no evalúa a A directamente sin KPIs objetivos auditables). Programar **revisiones trimestrales de clima anónimas** por turno para detectar toxicidad latente antes de que escale a sabotaje.
+
+MODELO SPARK 1.3
+### Salida
+1. A pide muestras para tender trampas a B. B, de mayor rango, desprestigia a A a escondidas. Ambos se sabotean en ciclo de represalias.
+
+2. A (06-14h): disponible 14:30-18h. B (14-22h): disponible 09-13h. Sin solape; mediación conjunta solo fuera de jornada pagada.
+
+3. Conflicto asimétrico sin coincidencia horaria: trampa técnica vs poder informal, sin canal directo.
+
+4. a) Mediación externa fin de semana con acta firmada. b) Separación funcional/cambio supervisor. c) Digitalizar todo: ticket con copia, formulario trazable, KPIs escritos. d) Expediente cruzado por hechos probados. e) Solape 1h/día supervisado temporal.
+
+6. Trazabilidad obligatoria, evaluación objetiva auditable y encuestas anónimas trimestrales por turno.
